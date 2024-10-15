@@ -1,2 +1,3 @@
-# latihanweb1
-nama : Andita Susanti Putri nim : 2305101147
+# latihanModul1
+nama : Andita Susanti Putri 
+nim : 2305101147
